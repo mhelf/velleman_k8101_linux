@@ -1,0 +1,51 @@
+AA 08 00 09 50 40 A1 55
+Draw Pixel at 80/64
+
+
+AA 08 00 09 50 3C 9D 55
+Draw Pixel at 80/60
+
+
+
+AA 08 00 09 0A 0A 25 55
+Draw Pixel at 10/10
+
+AA 08 00 09 14 14 39 55
+Draw Pixel at 20/20
+
+AA 08 00 09 1E 1E 4D 55
+Draw Pixel at 30/30
+
+AA 08 00 09 0A 0A 25 55
+Draw Pixel at 10/10
+
+AA 08 00 09 01 0A 1C 55
+Draw Pixel at 1/10
+
+AA 08 00 09 02 0A 1D 55
+Draw Pixel at 2/10
+
+AA 08 00 09 03 0A 1E 55
+Draw Pixel at 3/10
+
+
+AA 08 00 09 00 00 11 55
+Draw Pixel at 0/0
+
+AA 08 00 09 01 00 12 55
+Draw Pixel at 1/0
+
+AA 08 00 09 02 00 13 55
+Draw Pixel at 2/0
+
+AA 08 00 09 00 01 12 55
+Draw Pixel at 0/1
+
+AA 08 00 09 00 02 13 55
+Draw Pixel at 0/2
+
+Vorletztes Byte = Checksum
+
+
+Clear ALl 
+AA 06 00 02 08 55
